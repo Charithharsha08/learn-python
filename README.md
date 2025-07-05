@@ -1,4 +1,3 @@
-
 # Learn Python 🐍
 
 Welcome to **Learn Python**, a beginner-friendly repository created to help anyone start learning Python programming from scratch.
@@ -10,9 +9,9 @@ This repository is ideal for:
 
 ---
 
-## 📘 What's Covered So Far
+## 📘 What’s Covered
 
-This repo currently includes the basics of Python:
+This repository now covers a broad range of Python fundamentals:
 
 ### ✅ Python Basics
 - Syntax rules
@@ -32,6 +31,45 @@ This repo currently includes the basics of Python:
 - Common list methods (`append()`, `remove()`, `sort()`, etc.)
 - List slicing and iteration
 
+### ✅ Conditional Statements
+- `if`, `elif`, `else`
+- Nested conditions
+
+### ✅ Loops
+- `for` loops
+- `while` loops
+- Loop control statements (`break`, `continue`, `pass`)
+
+### ✅ Functions
+- Defining and calling functions
+- Function arguments and return values
+- Lambda functions
+
+### ✅ Data Structures
+- Tuples
+- Sets
+- Dictionaries (including methods and iteration)
+
+### ✅ Object-Oriented Programming (OOP)
+- Classes and objects
+- Constructors
+- Inheritance
+- Encapsulation
+- Polymorphism
+
+### ✅ Exception Handling
+- `try`, `except`, `finally`
+- Handling multiple exceptions
+- Raising custom exceptions
+
+### ✅ File Handling
+- Reading and writing files
+- Working with file paths
+
+### ✅ Modules and Packages
+- Importing built-in modules
+- Creating custom modules
+
 ---
 
 ## 📓 Jupyter Notebook Support
@@ -42,71 +80,3 @@ If you don’t have Jupyter installed, you can run it by:
 ```bash
 pip install notebook
 jupyter notebook
-````
-
-You can also use **Google Colab** to open the notebooks directly in your browser without setup.
-
----
-
-## 🔄 Ongoing Updates
-
-I will continuously update this repository to cover **all Python fundamentals**, including:
-
-* Conditional statements (`if`, `elif`, `else`)
-* Loops (`for`, `while`)
-* Functions and Lambda expressions
-* Dictionaries, Tuples, Sets
-* Object-Oriented Programming (OOP)
-* File Handling
-* Exception Handling
-* Modules and Packages
-* Basics of Data Science and Web Development with Python
-
----
-
-## 🚀 Getting Started
-
-1. **Clone the Repository**
-
-   ```bash
-   git clone https://github.com/Charithharsha08/learn-python.git
-   cd learn-python
-   ```
-
-2. **Open in Jupyter Notebook**
-
-   ```bash
-   jupyter notebook
-   ```
-
----
-
-## 📂 Folder Structure
-```
-learn-python/
-│
-├── basics/
-│   ├── first-phython-file.py
-│   └── first-jupyter-file.ipynb
-└── README.md
-```
-
----
-
-## 🙋‍♂️ About Me
-
-Hi! I’m [Charith Harsha](https://github.com/Charithharsha08), a software engineering student from Sri Lanka 🇱🇰
-
----
-
-## ⭐ Star This Repo
-
-If you find this helpful, please ⭐ star this repo — it helps others discover it too!
-
----
-
-## 📧 Contact
-
-* GitHub: [Charithharsha08](https://github.com/Charithharsha08)
-
-```
