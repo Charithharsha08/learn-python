@@ -1,8 +1,4 @@
-Got it, Charith! Here's the updated `README.md` with a section mentioning the use of **Jupyter Notebook** for learning and running Python code.
 
----
-
-````markdown
 # Learn Python 🐍
 
 Welcome to **Learn Python**, a beginner-friendly repository created to help anyone start learning Python programming from scratch.
