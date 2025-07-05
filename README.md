@@ -74,7 +74,7 @@ This repository now covers a broad range of Python fundamentals:
 
 ## 📓 Jupyter Notebook Support
 
-All examples and exercises are written in **Jupyter Notebooks** (`.ipynb`) for an interactive learning experience.  
+most examples and exercises are written in **Jupyter Notebooks** (`.ipynb`) for an interactive learning experience.  
 If you don’t have Jupyter installed, you can run it by:
 
 ```bash
