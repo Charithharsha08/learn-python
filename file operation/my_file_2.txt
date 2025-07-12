@@ -1,0 +1,4 @@
+this is new
+writelines method 
+this is new
+append method 
